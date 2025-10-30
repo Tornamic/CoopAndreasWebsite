@@ -1,2 +1,2 @@
-# CoopAndreasWebSite
-Website source for the official website of the CoopAndreas cooperative mod for GTA:SA
+# CoopAndreasWebsite
+Source for the official website of CoopAndreas cooperative mod for GTA:SA
